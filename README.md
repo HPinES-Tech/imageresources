@@ -1,4 +1,6 @@
 # imageresources
 Image Resources Repo
 
-WORKING IN PROCESS 🤪
+- Updates:
+  - 2026/7/26: CREATED REPOSITORY 🤪
+  - 2026/7/26: UNREADY 😭
